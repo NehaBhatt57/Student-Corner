@@ -1,0 +1,8 @@
+__pycache__
+chroma_db
+venv
+.env
+uploads/
+requirements1.txt
+render.yaml
+runtime.txt
